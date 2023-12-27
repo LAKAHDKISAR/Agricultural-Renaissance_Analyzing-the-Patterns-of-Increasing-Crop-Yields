@@ -14,6 +14,7 @@ https://www.kaggle.com/datasets/thedevastator/the-relationship-between-crop-prod
 - [Data](#data)
 - [Requirements](#Requirements)
 - [License](#license)
+- [Course Acknowledgement](#Course_Acknowledgement)
 
 ## Introduction
 
@@ -52,4 +53,8 @@ The data used in this notebook is located in the [data](https://www.kaggle.com/d
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Course_Acknowledgement
+
+This EDA has been undertaken as part of the Data Science: Intermediate course at NCC Education, United Kingdom. It represents a practical fulfillment of the curriculum's requirements, allowing for the application of data science methodologies to real-world scenarios.
 
